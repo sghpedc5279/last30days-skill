@@ -1,5 +1,5 @@
 # /last30days
-
+官方网页版在线检索导航：https://signals.forwardfuture.com/loop-library/
 [English](README.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [日本語](README.ja.md) | 简体中文
 
 <p align="center">
